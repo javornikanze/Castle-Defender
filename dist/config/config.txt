@@ -1,4 +1,0 @@
-volume:70
-music:17
-mute_all:False
-tutorial:False
